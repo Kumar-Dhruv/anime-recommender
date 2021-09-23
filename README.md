@@ -10,4 +10,5 @@ A simple Flask App that recommends people Anime based on their taste
 Dataset was used under CCO Domain
 https://www.kaggle.com/hernan4444/anime-recommendation-database-2020
 
+# Link
 https://anime-recommender-kd.herokuapp.com/
